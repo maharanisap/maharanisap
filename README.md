@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Python, SQL, and Data Visualization<br>🎯 Goals:Become a Data Analyst and build projects with real-world datasets<br>🎲</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Python, SQL, and Data Visualization<br>🎯 Goals:Become a Data Analyst and build projects with real-world datasets<br></p>
 
 ###
 
@@ -27,10 +27,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo"  />
 <img width="12" />
 
-<img src="https://logo.svgcdn.com/logos/looker-icon.svg" height="40" alt="looker logo"  />
+<!-- Generic BI tool icon -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Business-intelligence-icon.png" height="40" alt="BI logo"  />
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+
 
 </div>
 
