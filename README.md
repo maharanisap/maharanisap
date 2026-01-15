@@ -1,17 +1,5 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Maharani Salsabila and I'm a Data Analyst, from Bandung, West Java</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 # Hello there 👋
-
+<p align="left">My name is Maharani Salsabila and I'm a Data Analyst, from Bandung, West Java</p>
 🎓 Graduated from Telkom University  
 🌱 Currently exploring the world of Data Analysis  
 
